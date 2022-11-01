@@ -1,0 +1,7 @@
+class Alumno
+{
+  public static void main(String[] xx)
+  {
+    System.out.println("Soy alumno");
+  }
+}
